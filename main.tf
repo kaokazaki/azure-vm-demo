@@ -12,7 +12,7 @@ provider "azurerm" {
 }
 
 variable "prefix" {
-  default = "tfvmex"
+  default = "mgzk4"
 }
 
 resource "azurerm_resource_group" "example" {
